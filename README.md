@@ -1,1 +1,1 @@
-https://github.com/maksimenkomv/ono-tebe-nado-fd-main
+https://github.com/maksimenkomv/ono-tebe-nado-fd
