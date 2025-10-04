@@ -61,12 +61,10 @@
 
 .header__links-list-item {
   position: relative;
-  text-decoration: underline;
   white-space: nowrap;
 }
 
 .header__links-list-item_no-bullit {
-  text-decoration: none;
   list-style: none;
 }
 
@@ -77,13 +75,12 @@
 /* --- стили для address --- */
 
 .address {
-  color: #000;
-  font-family: Raleway, Arial, sans-serif;
+  color: #000000;
+  font-family: Raleway, Arial, sans-serif; 
   font-weight: 400;
-  font-weight: normal;
-  font-size: 18px;
-  font-style: normal;
-  line-height: 1.25;
+  font-size: 18px; 
+  font-style: normal; 
+  line-height: 1.38em;
 }
 
 .header__address {
@@ -95,23 +92,13 @@
   margin: 0;
   padding-bottom: 10px;
   text-decoration: none;
-}
+  } 
 
-.header__address a {
-  color: #000000;
-  font-family: Raleway, Arial, sans-serif;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 1.28em;
+
+.address a { 
+  color: #000000; 
   text-decoration: underline;
-}
-
-.header__address p {
-  font-family: Raleway, Arial, sans-serif;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 1.28em;
-}
+} 
 
 /* --- стили для cover --- */
 
